@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877845473374",
+    "project_id": "my-social-app-5d70b",
+    "storage_bucket": "my-social-app-5d70b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877845473374:android:4b34de0074b5d84e872ccf",
+        "android_client_info": {
+          "package_name": "com.muhammadali.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877845473374-nihr9fgnebsum1m7r9rej8l16efb7b3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.telegramchatapp",
+            "certificate_hash": "cb1c6a4205ffaf26606bd7f9c9e6998c3c1dfe24"
+          }
+        },
+        {
+          "client_id": "877845473374-uig0f14cdq7ucggi6kkgdpbl4jr77tcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtF3vJ00qyMbrubFhTTd9h27MPBnLr52Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877845473374-uig0f14cdq7ucggi6kkgdpbl4jr77tcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
